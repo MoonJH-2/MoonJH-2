@@ -1,1 +1,1 @@
-- 👋 I moved here. [[MungJeoNyeon]](https://github.com/MungJeoNyeon) → MoonJH-2
+- 👋 I came to MoonJH-2 from [[MungJeoNyeon]](https://github.com/MungJeoNyeon)
