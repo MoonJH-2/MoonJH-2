@@ -4,4 +4,4 @@
 I’ve transitioned from my previous GitHub account, [MungJeoNyeon](https://github.com/MungJeoNyeon).  
 Feel free to explore my new projects here!
 
-![스크린샷 2024-12-13 18 13 25](https://github.com/user-attachments/assets/85945cda-a239-40a0-8011-7a9de820a053)
+![스크린샷 2024-12-18 23 04 54](https://github.com/user-attachments/assets/a2e45450-fc4e-405b-81af-61abedd19810)
